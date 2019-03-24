@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/bernard/Documents/KiCAD/Projects/HKK/HKK.sch</source>
+    <date>2019 March 24, Sunday 16:53:51</date>
+    <tool>Eeschema (5.0.1-3-g963ef8bb5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>HKK.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>ProMicro</value>
+      <footprint>kbd:ProMicro_v2_Backside</footprint>
+      <libsource lib="kbd" part="ProMicro" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977308</tstamp>
+    </comp>
+    <comp ref="SW61">
+      <value>SW_PUSH</value>
+      <footprint>kbd:ResetSW</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977576</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9777A5</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977845</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97788E</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9779C4</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9779CB</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9779D2</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977B9D</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977BA4</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977DD8</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977DDF</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977DE6</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C977DED</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9784FC</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978503</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97850A</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978511</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978518</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97851F</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978526</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97852D</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978534</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97853B</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978542</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978549</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97889A</tstamp>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788A1</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788A8</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788AF</tstamp>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788B6</tstamp>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788BD</tstamp>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788C4</tstamp>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788CB</tstamp>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788D2</tstamp>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788D9</tstamp>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788E0</tstamp>
+    </comp>
+    <comp ref="SW36">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9788E7</tstamp>
+    </comp>
+    <comp ref="SW37">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978C70</tstamp>
+    </comp>
+    <comp ref="SW38">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978C77</tstamp>
+    </comp>
+    <comp ref="SW39">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978C7E</tstamp>
+    </comp>
+    <comp ref="SW40">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978C85</tstamp>
+    </comp>
+    <comp ref="SW41">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978C8C</tstamp>
+    </comp>
+    <comp ref="SW42">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978C93</tstamp>
+    </comp>
+    <comp ref="SW43">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978C9A</tstamp>
+    </comp>
+    <comp ref="SW44">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978CA1</tstamp>
+    </comp>
+    <comp ref="SW45">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978CA8</tstamp>
+    </comp>
+    <comp ref="SW46">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978CAF</tstamp>
+    </comp>
+    <comp ref="SW47">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978CB6</tstamp>
+    </comp>
+    <comp ref="SW48">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978CBD</tstamp>
+    </comp>
+    <comp ref="SW49">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F52</tstamp>
+    </comp>
+    <comp ref="SW50">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F59</tstamp>
+    </comp>
+    <comp ref="SW51">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F60</tstamp>
+    </comp>
+    <comp ref="SW52">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F67</tstamp>
+    </comp>
+    <comp ref="SW53">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F6E</tstamp>
+    </comp>
+    <comp ref="SW54">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F75</tstamp>
+    </comp>
+    <comp ref="SW55">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F7C</tstamp>
+    </comp>
+    <comp ref="SW56">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F83</tstamp>
+    </comp>
+    <comp ref="SW57">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F8A</tstamp>
+    </comp>
+    <comp ref="SW58">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F91</tstamp>
+    </comp>
+    <comp ref="SW59">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F98</tstamp>
+    </comp>
+    <comp ref="SW60">
+      <value>SW_PUSH</value>
+      <footprint>Keebio-Parts:MX_Plate_100H</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C978F9F</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97D709</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97DA2D</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97DAF3</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97DBB1</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97DC78</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97DDCE</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E0EF</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E0F6</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E0FD</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E336</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E33D</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E344</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E78E</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E795</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E79C</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E905</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E90C</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E913</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E9C8</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E9CF</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97E9D6</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EA94</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EA9B</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EAA2</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED2D</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED34</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED3B</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED42</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED49</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED50</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED57</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED5E</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED65</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED6C</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED73</tstamp>
+    </comp>
+    <comp ref="D58">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97ED7A</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EED1</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EED8</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EEDF</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EEE6</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EEED</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EEF4</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EEFB</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EF02</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EF09</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EF10</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EF17</tstamp>
+    </comp>
+    <comp ref="D59">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97EF1E</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F0D5</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F0DC</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F0E3</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F0EA</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F0F1</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F0F8</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F0FF</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F106</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F10D</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F114</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F11B</tstamp>
+    </comp>
+    <comp ref="D60">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C97F122</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kbd" part="ProMicro">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX" type="BiDi"/>
+        <pin num="2" name="RX" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="BiDi"/>
+        <pin num="6" name="SCL" type="BiDi"/>
+        <pin num="7" name="D4" type="BiDi"/>
+        <pin num="8" name="C6" type="BiDi"/>
+        <pin num="9" name="D7" type="BiDi"/>
+        <pin num="10" name="E6" type="BiDi"/>
+        <pin num="11" name="B4" type="BiDi"/>
+        <pin num="12" name="B5" type="BiDi"/>
+        <pin num="13" name="B6" type="BiDi"/>
+        <pin num="14" name="B2" type="BiDi"/>
+        <pin num="15" name="B3" type="BiDi"/>
+        <pin num="16" name="B1" type="BiDi"/>
+        <pin num="17" name="F7" type="BiDi"/>
+        <pin num="18" name="F6" type="BiDi"/>
+        <pin num="19" name="F5" type="BiDi"/>
+        <pin num="20" name="F4" type="BiDi"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="kbd" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="kbd">
+      <uri>/Users/bernard/Documents/KiCAD/Libraries/kbd-master/library/kbd.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="VCC">
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="2" name="reset">
+      <node ref="U1" pin="22"/>
+      <node ref="SW61" pin="1"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="SW61" pin="2"/>
+      <node ref="U1" pin="23"/>
+      <node ref="U1" pin="4"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="4" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="SW3" pin="2"/>
+    </net>
+    <net code="7" name="c0">
+      <node ref="SW4" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW3" pin="1"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="SW4" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D5-Pad2)">
+      <node ref="SW5" pin="2"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="SW6" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="SW7" pin="2"/>
+    </net>
+    <net code="12" name="c1">
+      <node ref="SW6" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="SW8" pin="1"/>
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="13" name="Net-(D8-Pad2)">
+      <node ref="SW8" pin="2"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D9-Pad2)">
+      <node ref="SW9" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="15" name="Net-(D10-Pad2)">
+      <node ref="SW10" pin="2"/>
+      <node ref="D10" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="SW11" pin="2"/>
+    </net>
+    <net code="17" name="c2">
+      <node ref="SW9" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="18" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="SW12" pin="2"/>
+    </net>
+    <net code="19" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="SW13" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2"/>
+      <node ref="SW14" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="22" name="c3">
+      <node ref="SW13" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="SW16" pin="1"/>
+    </net>
+    <net code="23" name="Net-(D16-Pad2)">
+      <node ref="SW16" pin="2"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2"/>
+      <node ref="SW17" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D18-Pad2)">
+      <node ref="SW18" pin="2"/>
+      <node ref="D18" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D19-Pad2)">
+      <node ref="SW19" pin="2"/>
+      <node ref="D19" pin="2"/>
+    </net>
+    <net code="27" name="c4">
+      <node ref="U1" pin="2"/>
+      <node ref="SW20" pin="1"/>
+      <node ref="SW19" pin="1"/>
+      <node ref="SW18" pin="1"/>
+      <node ref="SW17" pin="1"/>
+    </net>
+    <net code="28" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="SW21" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="SW22" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="SW23" pin="2"/>
+    </net>
+    <net code="32" name="c5">
+      <node ref="U1" pin="1"/>
+      <node ref="SW21" pin="1"/>
+      <node ref="SW22" pin="1"/>
+      <node ref="SW23" pin="1"/>
+      <node ref="SW24" pin="1"/>
+    </net>
+    <net code="33" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2"/>
+      <node ref="SW24" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2"/>
+      <node ref="SW25" pin="2"/>
+    </net>
+    <net code="35" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2"/>
+      <node ref="SW26" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D27-Pad2)">
+      <node ref="SW27" pin="2"/>
+      <node ref="D27" pin="2"/>
+    </net>
+    <net code="37" name="c6">
+      <node ref="SW27" pin="1"/>
+      <node ref="SW26" pin="1"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="SW25" pin="1"/>
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="38" name="Net-(D28-Pad2)">
+      <node ref="SW28" pin="2"/>
+      <node ref="D28" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D29-Pad2)">
+      <node ref="SW29" pin="2"/>
+      <node ref="D29" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D30-Pad2)">
+      <node ref="SW30" pin="2"/>
+      <node ref="D30" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D31-Pad2)">
+      <node ref="SW31" pin="2"/>
+      <node ref="D31" pin="2"/>
+    </net>
+    <net code="42" name="c7">
+      <node ref="U1" pin="20"/>
+      <node ref="SW32" pin="1"/>
+      <node ref="SW31" pin="1"/>
+      <node ref="SW30" pin="1"/>
+      <node ref="SW29" pin="1"/>
+    </net>
+    <net code="43" name="Net-(D32-Pad2)">
+      <node ref="SW32" pin="2"/>
+      <node ref="D32" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2"/>
+      <node ref="SW33" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2"/>
+      <node ref="SW34" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D35-Pad2)">
+      <node ref="SW35" pin="2"/>
+      <node ref="D35" pin="2"/>
+    </net>
+    <net code="47" name="c8">
+      <node ref="SW36" pin="1"/>
+      <node ref="SW33" pin="1"/>
+      <node ref="SW34" pin="1"/>
+      <node ref="SW35" pin="1"/>
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="48" name="Net-(D36-Pad2)">
+      <node ref="SW36" pin="2"/>
+      <node ref="D36" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D37-Pad2)">
+      <node ref="SW37" pin="2"/>
+      <node ref="D37" pin="2"/>
+    </net>
+    <net code="50" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2"/>
+      <node ref="SW38" pin="2"/>
+    </net>
+    <net code="51" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2"/>
+      <node ref="SW39" pin="2"/>
+    </net>
+    <net code="52" name="c9">
+      <node ref="U1" pin="18"/>
+      <node ref="SW39" pin="1"/>
+      <node ref="SW38" pin="1"/>
+      <node ref="SW40" pin="1"/>
+      <node ref="SW37" pin="1"/>
+    </net>
+    <net code="53" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2"/>
+      <node ref="SW40" pin="2"/>
+    </net>
+    <net code="54" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2"/>
+      <node ref="SW41" pin="2"/>
+    </net>
+    <net code="55" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2"/>
+      <node ref="SW42" pin="2"/>
+    </net>
+    <net code="56" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2"/>
+      <node ref="SW43" pin="2"/>
+    </net>
+    <net code="57" name="c10">
+      <node ref="SW42" pin="1"/>
+      <node ref="SW41" pin="1"/>
+      <node ref="U1" pin="17"/>
+      <node ref="SW43" pin="1"/>
+      <node ref="SW44" pin="1"/>
+    </net>
+    <net code="58" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2"/>
+      <node ref="SW44" pin="2"/>
+    </net>
+    <net code="59" name="Net-(D45-Pad2)">
+      <node ref="SW45" pin="2"/>
+      <node ref="D45" pin="2"/>
+    </net>
+    <net code="60" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2"/>
+      <node ref="SW46" pin="2"/>
+    </net>
+    <net code="61" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2"/>
+      <node ref="SW47" pin="2"/>
+    </net>
+    <net code="62" name="c11">
+      <node ref="SW45" pin="1"/>
+      <node ref="SW46" pin="1"/>
+      <node ref="SW47" pin="1"/>
+      <node ref="SW48" pin="1"/>
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="63" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2"/>
+      <node ref="SW48" pin="2"/>
+    </net>
+    <net code="64" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2"/>
+      <node ref="SW49" pin="2"/>
+    </net>
+    <net code="65" name="Net-(D50-Pad2)">
+      <node ref="SW50" pin="2"/>
+      <node ref="D50" pin="2"/>
+    </net>
+    <net code="66" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2"/>
+      <node ref="SW51" pin="2"/>
+    </net>
+    <net code="67" name="c12">
+      <node ref="SW50" pin="1"/>
+      <node ref="SW51" pin="1"/>
+      <node ref="SW52" pin="1"/>
+      <node ref="U1" pin="15"/>
+      <node ref="SW49" pin="1"/>
+    </net>
+    <net code="68" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2"/>
+      <node ref="SW52" pin="2"/>
+    </net>
+    <net code="69" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2"/>
+      <node ref="SW53" pin="2"/>
+    </net>
+    <net code="70" name="Net-(D54-Pad2)">
+      <node ref="SW54" pin="2"/>
+      <node ref="D54" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D55-Pad2)">
+      <node ref="SW55" pin="2"/>
+      <node ref="D55" pin="2"/>
+    </net>
+    <net code="72" name="c13">
+      <node ref="SW56" pin="1"/>
+      <node ref="SW55" pin="1"/>
+      <node ref="SW54" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="SW53" pin="1"/>
+    </net>
+    <net code="73" name="Net-(D56-Pad2)">
+      <node ref="SW56" pin="2"/>
+      <node ref="D56" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2"/>
+      <node ref="SW57" pin="2"/>
+    </net>
+    <net code="75" name="Net-(D58-Pad2)">
+      <node ref="SW58" pin="2"/>
+      <node ref="D58" pin="2"/>
+    </net>
+    <net code="76" name="Net-(D59-Pad2)">
+      <node ref="SW59" pin="2"/>
+      <node ref="D59" pin="2"/>
+    </net>
+    <net code="77" name="c14">
+      <node ref="U1" pin="13"/>
+      <node ref="SW57" pin="1"/>
+      <node ref="SW58" pin="1"/>
+      <node ref="SW59" pin="1"/>
+      <node ref="SW60" pin="1"/>
+    </net>
+    <net code="78" name="Net-(D60-Pad2)">
+      <node ref="D60" pin="2"/>
+      <node ref="SW60" pin="2"/>
+    </net>
+    <net code="79" name="r0">
+      <node ref="D21" pin="1"/>
+      <node ref="D25" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="U1" pin="9"/>
+      <node ref="D37" pin="1"/>
+      <node ref="D41" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D49" pin="1"/>
+      <node ref="D53" pin="1"/>
+      <node ref="D57" pin="1"/>
+    </net>
+    <net code="80" name="r1">
+      <node ref="D6" pin="1"/>
+      <node ref="U1" pin="10"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D42" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D50" pin="1"/>
+      <node ref="D54" pin="1"/>
+      <node ref="D58" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D14" pin="1"/>
+    </net>
+    <net code="81" name="r2">
+      <node ref="D3" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D59" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D43" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="U1" pin="11"/>
+      <node ref="D55" pin="1"/>
+    </net>
+    <net code="82" name="r3">
+      <node ref="D16" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D48" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="D56" pin="1"/>
+      <node ref="D60" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="U1" pin="12"/>
+      <node ref="D32" pin="1"/>
+    </net>
+  </nets>
+</export>
